@@ -1,0 +1,11 @@
+title: Priyanshu Darji # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Frontend Engineer
+  <br><br>
+  <a href="mailto:priyanshudarji331@gmail.com">priyanshudarji331@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/priyanshu-darji-356098219/">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/Quotennial596">Gihub</a> 
+theme: jekyll-theme-minimal
